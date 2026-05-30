@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="07e47IpaDEZngo3Mefrk">
-    <mxGraphModel dx="1433" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="860" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sys" parent="1" style="swimlane;startSize=30;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;" value="SIstem Manajemen Admin" vertex="1">
+        <mxCell id="sys" parent="1" style="swimlane;startSize=30;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;" value="Sistem Tamp" vertex="1">
           <mxGeometry height="380" width="410" x="160" y="20" as="geometry" />
         </mxCell>
         <mxCell id="uc7" parent="sys" style="ellipse;fillColor=#d5e8d4;strokeColor=#82b366;" value="CRUD User" vertex="1">

@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram id="T9xGgLXJbj3wdMUX6uyq" name="Page-1">
-    <mxGraphModel dx="1433" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="688" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="title" parent="1" style="text;html=1;align=center;fontSize=14;" value="&lt;b&gt;SEQUENCE DIAGRAM - BIMBINGAN&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="950" x="60" y="10" as="geometry" />
-        </mxCell>
-        <mxCell id="mhs" parent="1" style="shape=mxgraph.uml.actor;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="Mahasiswa" vertex="1">
-          <mxGeometry height="80" width="60" x="80" y="60" as="geometry" />
         </mxCell>
         <mxCell id="browser" parent="1" style="rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;" value=":Browser" vertex="1">
           <mxGeometry height="40" width="120" x="230" y="70" as="geometry" />
@@ -18,9 +15,6 @@
         </mxCell>
         <mxCell id="db" parent="1" style="shape=mxgraph.uml.database;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;" value=":Database" vertex="1">
           <mxGeometry height="70" width="60" x="680" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dsn" parent="1" style="shape=mxgraph.uml.actor;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="Dosen" vertex="1">
-          <mxGeometry height="80" width="60" x="860" y="60" as="geometry" />
         </mxCell>
         <mxCell id="mhs_l" edge="1" parent="1" style="endArrow=none;dashed=1;strokeColor=#6c8ebf;">
           <mxGeometry x="110" y="140" as="geometry">
@@ -138,6 +132,12 @@
             <mxPoint x="510" y="650" as="sourcePoint" />
             <mxPoint x="110" y="650" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VV7ExBn9o235By71RzcD-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VV7ExBn9o235By71RzcD-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Dosen" vertex="1">
+          <mxGeometry height="60" width="30" x="880" y="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
